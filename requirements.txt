@@ -1,3 +1,7 @@
+openai
 openai-agents
 dotenv
 pydantic
+requests
+playwright
+pandas
